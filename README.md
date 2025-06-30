@@ -9,10 +9,18 @@
   <img src="https://komarev.com/ghpvc/?username=7he-lychnobit3-cyborg&label=Profile%20views&color=0e75b6&style=flat" alt="7he-lychnobit3-cyborg" />
 </p>
 
-<h2 align="center">👀 Profile Visitor Count 👀</h2>
+<h2 align="center">👁️‍🗨️ Live Profile Visitor Counter 👁️‍🗨️</h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@7he-Lychnobit3-CyborG?theme=hotdog" alt="visitor badge" />
+  <img src="https://readme-visitor-badge.glitch.me/badge?page_id=7he-Lychnobit3-CyborG&left_color=green&right_color=black&left_text=👾%20VISITORS" alt="Visitor Count"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/7he-Lychnobit3-CyborG/count.svg" alt="Real-Time Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c0Y25hcWlkaGRuN3R1cm1sZmliaHRrYmFjMnBhZW5wZjc0eWg2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2wS5NQJH7UqbTzZyci/giphy.gif" width="150" alt="pulse-dot">
 </p>
 
 
