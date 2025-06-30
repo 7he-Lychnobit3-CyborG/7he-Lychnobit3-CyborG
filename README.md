@@ -12,7 +12,7 @@
 <h2 align="center">👀 Profile Visitor Count 👀</h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@7he-Lychnobit3-CyborG?theme=rule34" alt="visitor badge" />
+  <img src="https://count.getloli.com/get/@7he-Lychnobit3-CyborG?theme=moebooru" alt="visitor badge" />
 </p>
 
 
