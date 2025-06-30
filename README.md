@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Subhamoy+Paul!;Data+Analyst;IoT+%26+Robotics+Developer;Ethical+Hacker;Always+Learning+New+Things...&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=00FF99&vCenter=true" alt="Typing SVG" />
+</p>
 
-<!--
-**7he-Lychnobit3-CyborG/7he-Lychnobit3-CyborG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+```yaml
+Name: Subhamoy Paul
+Role: Data Analyst | AI & Robotics Developer | Ethical Hacker
+Focus: Data Science, IoT, AI/ML, Cybersecurity
+Hobbies: Robotics, Automation, Ethical Hacking, Tech Blogging
