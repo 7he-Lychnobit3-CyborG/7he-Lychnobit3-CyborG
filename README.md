@@ -12,14 +12,9 @@
 <h2 align="center">👀 Live Profile Visitor Count 👀</h2>
 
 <p align="center">
-  <!-- Retro LED counter style -->
-  <img src="https://profile-counter.glitch.me/7he-Lychnobit3-CyborG/count.svg" alt="Profile Counter" />
+  <img src="https://count.getloli.com/get/@7he-Lychnobit3-CyborG?theme=rule34" alt="Live Visitor Count" />
 </p>
 
-<p align="center">
-  <!-- Animated matrix-style background GIF (optional) -->
-  <img src="https://media.giphy.com/media/ftrKjGWiZ5jqMoYP8m/giphy.gif" width="120" alt="animated matrix" />
-</p>
 
 
 ---
