@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=35F7F2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+IoT+%7C+Cybersecurity+%7C+Automation+%7C+Robotics+;Always+learning+and+building+innovative+solutions!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=7he-lychnobit3-cyborg&label=Profile%20views&color=0e75b6&style=flat" alt="7he-lychnobit3-cyborg" />
-</p>
-
 <h2 align="center">👀 Live Profile Visitor Count 👀</h2>
 
 <p align="center">
