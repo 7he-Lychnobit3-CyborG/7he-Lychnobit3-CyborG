@@ -9,6 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=7he-lychnobit3-cyborg&label=Profile%20views&color=0e75b6&style=flat" alt="7he-lychnobit3-cyborg" />
 </p>
 
+<h2 align="center">👀 Profile Visitor Count 👀</h2>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@7he-Lychnobit3-CyborG?theme=rule34" alt="visitor badge" />
+</p>
+
+
 ---
 
 ## 🧠 Skills & Technologies
